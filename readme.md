@@ -8,3 +8,4 @@ source env/bin/activate 555
 pip install -r requirements.txt
 
 python run.py
+ззззззззззззззззззззззз
