@@ -1,6 +1,6 @@
 git clone https://github.com/zuberok/bs_demo.git
 
-cd bs_demo
+cd bs_demo//home
 virtualenv env --no-site-packages
 
 source env/bin/activate 555
@@ -8,4 +8,4 @@ source env/bin/activate 555
 pip install -r requirements.txt
 
 python run.py
-888888888888888888888888888
+
